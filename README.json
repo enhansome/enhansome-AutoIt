@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "description": "Listing of libraries of user defined functions (UDF). These libraries have been written to allow easy integration into your own scripts and are a very valuable resource for any programmer.",
+      "items": [],
+      "title": "UDF/Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoItMonkey",
+          "description": "The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2016-11-28T00:48:11Z",
+            "owner": "htejera",
+            "repo": "AutoItMonkey",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3270 (by Worlor)",
+          "description": "Library for automate a 3270 terminal with AutoIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2021-12-17T13:03:23Z",
+            "owner": "QuentinLemCode",
+            "repo": "AutoIt-3270",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImperiusAutoIt",
+          "description": "Imperius AutoIt is an ImperiusGeorge client for mobile test automation that support native Android apps.",
+          "children": []
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Micro Unit Testing Framework (by KyleChamberlin)",
+          "description": "Micro is a xUnit style testing framework design for use with AutoIt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2016-01-28T18:18:07Z",
+            "owner": "AutoItMicro",
+            "repo": "MicroUnitTestingFramework",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Experimental Maps UDF (by TheDcoder)",
+          "description": "UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2017-01-13T06:11:36Z",
+            "owner": "TheDcoder",
+            "repo": "Experimental-Maps-UDF",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logger (by Worlor)",
+          "description": "Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2021-12-17T13:08:03Z",
+            "owner": "QuentinLemCode",
+            "repo": "AutoIt-Logger",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoItAppveyor (by KyleChamberlin)",
+          "description": "This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoIt",
+            "last_commit": "2014-08-18T16:25:15Z",
+            "owner": "AutoItMicro",
+            "repo": "AutoItAppveyor",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful Resources"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": "by @sindresorhus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": "by @bayandin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lists",
+          "description": "by @jnv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-23T20:19:22Z",
+            "owner": "jnv",
+            "repo": "lists",
+            "stars": 11413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesome",
+          "description": "by @emijrp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-31T23:19:05Z",
+            "owner": "emijrp",
+            "repo": "awesome-awesome",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomes",
+          "description": "by @fleveque",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-13T08:32:10Z",
+            "owner": "fleveque",
+            "repo": "awesome-awesomes",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesome",
+          "description": "by @erichs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-13T08:33:34Z",
+            "owner": "erichs",
+            "repo": "awesome-awesome",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-all",
+          "description": "by @bradoyler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-16T11:44:37Z",
+            "owner": "bradoyler",
+            "repo": "awesome-all",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-collection",
+          "description": "by @flyhigher139",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-18T06:03:28Z",
+            "owner": "flyhigher139",
+            "repo": "awesome-collection",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesome",
+          "description": "by @oyvindrobertsen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-27T13:28:41Z",
+            "owner": "oyvindrobertsen",
+            "repo": "awesome-awesome",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:14:10.323Z",
+    "original_repository": "J2TEAM/awesome-AutoIt",
+    "original_repository_sha": "182573752d5c5b2558e8d3fda2664644e5888881",
+    "enhanced_repository": "enhansome/enhansome-AutoIt",
+    "enhanced_repository_description": null,
+    "title": "Awesome AutoIt with stars"
+  }
+}
