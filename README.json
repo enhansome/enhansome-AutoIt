@@ -131,7 +131,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496753
+            "stars": 497176
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33609
+            "stars": 33611
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3198
+            "stars": 3199
           }
         },
         {
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:51:51.122Z",
+    "last_updated": "2026-08-18T10:50:50.275Z",
     "original_repository": "J2TEAM/awesome-AutoIt",
     "original_repository_sha": "182573752d5c5b2558e8d3fda2664644e5888881",
     "enhanced_repository": "enhansome/enhansome-AutoIt",
