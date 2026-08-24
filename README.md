@@ -1,13 +1,13 @@
 # Awesome AutoIt with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,449 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow\&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,449 | 🐛 106 | 📅 2026-08-21 list thing.
+Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 list thing.
 
 ## Table Of Contents
 
@@ -297,6 +297,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ### Social Media and other Website API
 
+* [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) ⚠️ Archived - An AutoIt UDF to help you upload images using Imgur API.
 * [CrowdinAPI (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=169333) - UDF using the [crowdin.net website API](https://crowdin.com/page/api) for some functions (create projects, add and update files, download translations or integrate localization).
 * [Dropbox authenticator (by Gimerly)](https://www.autoitscript.com/forum/files/file/290-dropbox-authenticator/) - Dropbox authenticator.
 * [Easypost (by dcat127)](https://www.autoitscript.com/forum/index.php?showtopic=158106) - Print USPS Postage Labels.
@@ -304,7 +305,6 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 * [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 * [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 * [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-* [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) ⚠️ Archived - An AutoIt UDF to help you upload images using Imgur API.
 * [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 * [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 * [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
@@ -450,9 +450,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,449 | 🐛 106 | 📅 2026-08-21 by @sindresorhus
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,621 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 by @bayandin
-* [lists](https://github.com/jnv/lists) ⭐ 11,436 | 🐛 21 | 📅 2026-03-23 by @jnv
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 by @sindresorhus
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 by @bayandin
+* [lists](https://github.com/jnv/lists) ⭐ 11,437 | 🐛 22 | 📅 2026-03-23 by @jnv
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 by @emijrp
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) ⭐ 605 | 🐛 3 | 📅 2023-11-13 by @fleveque
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 by @erichs

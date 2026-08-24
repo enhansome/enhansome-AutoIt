@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Imgur",
+              "description": "An AutoIt UDF to help you upload images using Imgur API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39335859,
+                "language": "AutoIt",
+                "last_commit": "2015-07-19T14:30:18Z",
+                "owner": "J2TEAM",
+                "repo": "AutoIt-Imgur-UDF",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social Media and other Website API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Micro Unit Testing Framework (by KyleChamberlin)",
               "description": "Micro is a xUnit style testing framework design for use with AutoIt.",
               "children": [],
@@ -111,7 +133,7 @@
       "title": "UDF/Libraries"
     },
     {
-      "description": "[Back to Top]",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -125,7 +147,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499449
+            "stars": 499514
           }
         },
         {
@@ -140,7 +162,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33621
+            "stars": 33620
           }
         },
         {
@@ -155,7 +177,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11436
+            "stars": 11437
           }
         },
         {
@@ -253,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:57:17.439Z",
+    "last_updated": "2026-08-24T14:14:52.613Z",
     "original_repository": "J2TEAM/awesome-AutoIt",
     "original_repository_id": 41612408,
     "original_repository_sha": "182573752d5c5b2558e8d3fda2664644e5888881",
