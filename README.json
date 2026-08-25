@@ -147,7 +147,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499514
+            "stars": 499702
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33625
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11437
+            "stars": 11439
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3203
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-11-13T08:33:34Z",
             "owner": "erichs",
             "repo": "awesome-awesome",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2021-02-27T13:28:41Z",
             "owner": "oyvindrobertsen",
             "repo": "awesome-awesome",
-            "stars": 126
+            "stars": 127
           }
         }
       ],
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:52.613Z",
+    "last_updated": "2026-08-25T06:11:33.373Z",
     "original_repository": "J2TEAM/awesome-AutoIt",
     "original_repository_id": 41612408,
     "original_repository_sha": "182573752d5c5b2558e8d3fda2664644e5888881",
