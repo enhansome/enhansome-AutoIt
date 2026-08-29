@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoItMonkey provides an AutoIt interface for working with the Android monkey tool.",
+                "homepage": "http://ohtejera.github.io/AutoItMonkey ",
                 "id": 16618610,
                 "language": "AutoIt",
+                "license": "NOASSERTION",
                 "last_commit": "2016-11-28T00:48:11Z",
+                "open_issues": 0,
                 "owner": "htejera",
                 "repo": "AutoItMonkey",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automate a 3270 terminal with AutoIt !",
+                "homepage": null,
                 "id": 110144952,
                 "language": "AutoIt",
+                "license": null,
                 "last_commit": "2021-12-17T13:03:23Z",
+                "open_issues": 0,
                 "owner": "QuentinLemCode",
                 "repo": "AutoIt-3270",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An AutoIt UDF to help you upload images using Imgur API.",
+                "homepage": null,
                 "id": 39335859,
                 "language": "AutoIt",
+                "license": "MIT",
                 "last_commit": "2015-07-19T14:30:18Z",
+                "open_issues": 0,
                 "owner": "J2TEAM",
                 "repo": "AutoIt-Imgur-UDF",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             }
@@ -74,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro is a xUnit style testing framework design for use with AutoIt. The goal of Micro is to be easy to use and simple to integrate with continuous integration services.",
+                "homepage": "http://autoitmicro.github.io/MicroUnitTestingFramework",
                 "id": 22964751,
                 "language": "AutoIt",
+                "license": "MIT",
                 "last_commit": "2016-01-28T18:18:07Z",
+                "open_issues": 4,
                 "owner": "AutoItMicro",
                 "repo": "MicroUnitTestingFramework",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             },
@@ -90,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UDF for the Map datatype in AutoIt",
+                "homepage": null,
                 "id": 59884157,
                 "language": "AutoIt",
+                "license": "Unlicense",
                 "last_commit": "2017-01-13T06:11:36Z",
+                "open_issues": 0,
                 "owner": "TheDcoder",
                 "repo": "Experimental-Maps-UDF",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             },
@@ -106,12 +131,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 99667888,
                 "language": "AutoIt",
+                "license": null,
                 "last_commit": "2021-12-17T13:08:03Z",
+                "open_issues": 0,
                 "owner": "QuentinLemCode",
                 "repo": "AutoIt-Logger",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "autoit3",
+                  "autoit3-script",
+                  "logging"
+                ]
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             },
@@ -122,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an Appveyor CI library for AutoIt",
+                "homepage": null,
                 "id": 23057055,
                 "language": "AutoIt",
+                "license": "MIT",
                 "last_commit": "2014-08-18T16:25:15Z",
+                "open_issues": 0,
                 "owner": "AutoItMicro",
                 "repo": "AutoItAppveyor",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:56.589Z"
             }
@@ -149,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500829
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -165,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -181,12 +236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+            "homepage": null,
             "id": 14408715,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
+            "open_issues": 22,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11441
+            "stars": 11441,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-lists",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -197,12 +263,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome curated lists of many topics.",
+            "homepage": null,
             "id": 21388604,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-31T23:19:05Z",
+            "open_issues": 25,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3203
+            "stars": 3203,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -213,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language :D",
+            "homepage": null,
             "id": 21644428,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-13T08:32:10Z",
+            "open_issues": 3,
             "owner": "fleveque",
             "repo": "awesome-awesomes",
-            "stars": 605
+            "stars": 605,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -229,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome curated lists! Inspired by inspiration.",
+            "homepage": null,
             "id": 21636365,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-13T08:33:34Z",
+            "open_issues": 3,
             "owner": "erichs",
             "repo": "awesome-awesome",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -245,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome lists of awesome frameworks, libraries and software",
+            "homepage": "http://bradoyler.github.io/awesome-all/",
             "id": 21757420,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-10-16T11:44:37Z",
+            "open_issues": 1,
             "owner": "bradoyler",
             "repo": "awesome-all",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -261,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another awesome collection",
+            "homepage": "https://github.com/flyhigher139/awesome-collection",
             "id": 23650853,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-04-18T06:03:28Z",
+            "open_issues": 0,
             "owner": "flyhigher139",
             "repo": "awesome-collection",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         },
@@ -277,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of curated lists of libraries, resources and shiny things for various languages.",
+            "homepage": null,
             "id": 21740035,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-27T13:28:41Z",
+            "open_issues": 1,
             "owner": "oyvindrobertsen",
             "repo": "awesome-awesome",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
         }
@@ -291,15 +390,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:56.589Z",
+    "last_updated": "2026-08-29T04:36:30.932Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
+      "homepage": "https://j2team.github.io/awesome-AutoIt/",
       "id": 41612408,
       "language": null,
+      "license": null,
       "last_commit": "2022-08-21T12:04:57Z",
+      "open_issues": 0,
       "owner": "J2TEAM",
       "repo": "awesome-AutoIt",
-      "stars": 923
+      "stars": 923,
+      "topics": [
+        "autoit",
+        "autoit-script",
+        "awesome",
+        "awesome-list",
+        "list",
+        "programming-language",
+        "scripting-language",
+        "udf"
+      ]
     },
     "original_repository_sha": "182573752d5c5b2558e8d3fda2664644e5888881",
     "enhanced_repository": "enhansome/enhansome-AutoIt",
