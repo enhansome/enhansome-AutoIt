@@ -1,13 +1,13 @@
 # Awesome AutoIt with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,623 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,974 | 🐛 106 | 📅 2026-09-02
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow\&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,623 | 🐛 106 | 📅 2026-09-02 list thing.
+Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,974 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table Of Contents
 
@@ -438,7 +438,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 * [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 * [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 * [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-* [AutoIt - Visual Studio](https://github.com/loganch/AutoIt-VSCode) ⭐ 88 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-13 - AutoIt extension for Visual Studio.
+* [AutoIt - Visual Studio](https://github.com/loganch/AutoIt-VSCode) ⭐ 88 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-14 - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -450,18 +450,18 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,623 | 🐛 106 | 📅 2026-09-02 by @sindresorhus
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,666 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 by @bayandin
-* [lists](https://github.com/jnv/lists) ⭐ 11,477 | 🐛 27 | 📅 2026-03-23 by @jnv
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31 by @emijrp
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,974 | 🐛 106 | 📅 2026-09-02 by @sindresorhus
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,669 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 by @bayandin
+* [lists](https://github.com/jnv/lists) ⭐ 11,480 | 🐛 27 | 📅 2026-03-23 by @jnv
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,208 | 🐛 26 | 📅 2024-07-31 by @emijrp
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) ⭐ 604 | 🐛 3 | 📅 2023-11-13 by @fleveque
-* [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 by @erichs
-* [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 238 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 by @bradoyler
-* [awesome-collection](https://github.com/flyhigher139/awesome-collection) ⭐ 132 | 🐛 0 | 📅 2017-04-18 by @flyhigher139
+* [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 296 | 🐛 3 | 📅 2023-11-13 by @erichs
+* [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 239 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 by @bradoyler
+* [awesome-collection](https://github.com/flyhigher139/awesome-collection) ⭐ 131 | 🐛 0 | 📅 2017-04-18 by @flyhigher139
 * [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) ⭐ 127 | 🐛 1 | 📅 2021-02-27 by @oyvindrobertsen
 
 \[[Back to Top](#awesome-autoit)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
