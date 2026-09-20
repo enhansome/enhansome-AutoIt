@@ -197,7 +197,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507733,
+            "stars": 508093,
             "topics": [
               "awesome",
               "awesome-list",
@@ -245,7 +245,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11493,
+            "stars": 11500,
             "topics": [
               "awesome",
               "awesome-list",
@@ -272,7 +272,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3208,
+            "stars": 3209,
             "topics": [
               "awesome",
               "awesome-list"
@@ -359,7 +359,7 @@
             "open_issues": 0,
             "owner": "flyhigher139",
             "repo": "awesome-collection",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:56:27.855Z",
+    "last_updated": "2026-09-20T14:16:25.744Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
