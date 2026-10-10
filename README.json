@@ -197,7 +197,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516669,
+            "stars": 517108,
             "topics": [
               "awesome",
               "awesome-list",
@@ -221,10 +221,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33711,
+            "stars": 33716,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -242,10 +242,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11542,
+            "stars": 11546,
             "topics": [
               "awesome",
               "awesome-list",
@@ -269,10 +269,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-31T23:19:05Z",
-            "open_issues": 29,
+            "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3225,
+            "stars": 3226,
             "topics": [
               "awesome",
               "awesome-list"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:02:51.232Z",
+    "last_updated": "2026-10-10T15:53:57.056Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
@@ -402,7 +402,7 @@
       "open_issues": 0,
       "owner": "J2TEAM",
       "repo": "awesome-AutoIt",
-      "stars": 925,
+      "stars": 926,
       "topics": [
         "autoit",
         "autoit-script",
