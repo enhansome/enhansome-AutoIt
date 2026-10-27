@@ -197,7 +197,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 525044,
+            "stars": 525545,
             "topics": [
               "awesome",
               "awesome-list",
@@ -224,7 +224,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33748,
+            "stars": 33750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -245,7 +245,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11598,
+            "stars": 11602,
             "topics": [
               "awesome",
               "awesome-list",
@@ -272,7 +272,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3238,
+            "stars": 3239,
             "topics": [
               "awesome",
               "awesome-list"
@@ -296,7 +296,7 @@
             "open_issues": 3,
             "owner": "fleveque",
             "repo": "awesome-awesomes",
-            "stars": 606,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -317,7 +317,7 @@
             "open_issues": 3,
             "owner": "erichs",
             "repo": "awesome-awesome",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "bradoyler",
             "repo": "awesome-all",
-            "stars": 238,
+            "stars": 239,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -380,7 +380,7 @@
             "open_issues": 1,
             "owner": "oyvindrobertsen",
             "repo": "awesome-awesome",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:49:30.141Z",
+    "last_updated": "2026-10-27T15:54:43.871Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
