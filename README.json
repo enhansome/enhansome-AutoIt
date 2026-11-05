@@ -197,7 +197,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530823,
+            "stars": 531602,
             "topics": [
               "awesome",
               "awesome-list",
@@ -224,7 +224,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33770,
+            "stars": 33771,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -241,11 +241,11 @@
             "id": 14408715,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-31T16:22:36Z",
+            "last_commit": "2026-11-05T14:24:42Z",
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11628,
+            "stars": 11631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -272,7 +272,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3244,
+            "stars": 3246,
             "topics": [
               "awesome",
               "awesome-list"
@@ -338,7 +338,7 @@
             "open_issues": 1,
             "owner": "bradoyler",
             "repo": "awesome-all",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -380,7 +380,7 @@
             "open_issues": 1,
             "owner": "oyvindrobertsen",
             "repo": "awesome-awesome",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:56.589Z"
@@ -390,7 +390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:03:41.084Z",
+    "last_updated": "2026-11-05T18:06:53.901Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
