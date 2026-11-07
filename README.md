@@ -1,13 +1,13 @@
 # Awesome AutoIt with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,284 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,986 | 🐛 103 | 📅 2026-09-02
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow\&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,284 | 🐛 103 | 📅 2026-09-02 list thing.
+Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,986 | 🐛 103 | 📅 2026-09-02 list thing.
 
 ## Table Of Contents
 
@@ -450,9 +450,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,284 | 🐛 103 | 📅 2026-09-02 by @sindresorhus
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,986 | 🐛 103 | 📅 2026-09-02 by @sindresorhus
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,771 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 by @bayandin
-* [lists](https://github.com/jnv/lists) ⭐ 11,637 | 🐛 0 | 📅 2026-11-05 by @jnv
+* [lists](https://github.com/jnv/lists) ⭐ 11,640 | 🐛 0 | 📅 2026-11-05 by @jnv
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,246 | 🐛 26 | 📅 2024-07-31 by @emijrp
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) ⭐ 607 | 🐛 3 | 📅 2023-11-13 by @fleveque
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 299 | 🐛 3 | 📅 2023-11-13 by @erichs
@@ -464,4 +464,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
